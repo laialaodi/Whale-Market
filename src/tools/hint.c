@@ -1,6 +1,7 @@
 #include "tools/hint.h"
 #include "tools/color.h"
-#include <stdio.h>
+
+#include <cstdio>
 
 static const char *BANNER = "\
 \t__          ___           _          __  __            _        _       _\n\
